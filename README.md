@@ -3,7 +3,8 @@
 
 Sentiment Analysis of Restaurant Review The Restaurant review data content two features Reviews and liked , the reviews content whether positive , negative or neutral. For automating a detection of sentiment of the reviews from text ,build a prediction model to predict whether a review on the restaurant is positive or negative.
 
-#Project Overview
+**Project Overview**
+
 In this project ,dealing with the Restaurant reviews dataset. In this dataset, there are
 reviews from the customers which are either positive or negative. And now we are going to
 build a machine learning model using both Support Vector Classifier(SVC) and
@@ -12,7 +13,8 @@ Countvectorizer methods.
 negative automatically. In traditional method analyst manually predict the reviews from
 users and customers.
 
-#Wow In System
+**Wow In System**
+
 **Pipeline**: The solution uses a pipeline to combine the preprocessing and modeling steps
 into a single process. This makes the solution easier to use and maintain.
 
